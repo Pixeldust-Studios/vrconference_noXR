@@ -1,5 +1,0 @@
-*Build/XR12f.data.unityweb filter=lfs diff=lfs merge=lfs -text
-Build/XR12f.data.unityweb filter=lfs diff=lfs merge=lfs -text
-*.psd filter=lfs diff=lfs merge=lfs -text
-*.fbx filter=lfs diff=lfs merge=lfs -text
-Build/XR12g.data.unityweb filter=lfs diff=lfs merge=lfs -text
